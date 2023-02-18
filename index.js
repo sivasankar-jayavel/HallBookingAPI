@@ -13,7 +13,7 @@ app.use(express.json());
 
 // Home page
 app.get("/", (req, res) => {
-    res.send("Welcome to Hall Booking app 🎉🎉");
+    res.send(" ❤ Welcome to Hall Booking app ❤ ");
 });
 
 //create a room
